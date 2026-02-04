@@ -16,7 +16,14 @@ This project demonstrates a multi-container microservice application using **Pyt
 
 -requirements.txt
 
-
+### **1. Install Docker Desktop (macOS)**
+```bash
+# 1. Download Docker Desktop for Mac from:
+#    https://www.docker.com/products/docker-desktop/
+# 2. Open the .dmg file and drag Docker.app into Applications
+# 3. Open Docker.app and follow security prompts
+# 4. Verify installation:
+docker --version
 
 <img width="2544" height="1428" alt="Screenshot 2026-02-03 at 5 53 15 PM" src="https://github.com/user-attachments/assets/f9a70307-bc28-4d8a-bbbd-b7e22806d8af" />
 <img width="2935" height="1810" alt="Screenshot 2026-02-03 at 5 46 06 PM" src="https://github.com/user-attachments/assets/a15f2871-9de1-4831-8993-3aaa7a3dcd42" />

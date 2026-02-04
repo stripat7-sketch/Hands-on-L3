@@ -27,9 +27,13 @@ This project demonstrates a multi-container microservice application using **Pyt
 5. Verify installation:
 docker --version
 
-## Build and run the application: docker compose up
+## 2. Build and run the application: 
 
-## Open the application in a browser at: http://localhost:8000
+docker compose up
+
+## 3. Open the application in a browser at: 
+
+http://localhost:8000
 
 ##  Key Learnings
 

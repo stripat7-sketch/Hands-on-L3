@@ -5,10 +5,15 @@ This project demonstrates a multi-container microservice application using **Pyt
 
 ## Directory Structure
 -Dockerfile
+
 -README.md
+
 -Submission file.pdf
+
 -app.py
+
 -compose.yaml
+
 -requirements.txt
 
 
